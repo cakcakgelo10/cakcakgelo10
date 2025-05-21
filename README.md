@@ -7,7 +7,7 @@
 - 📅 [One Day One Code](https://github.com/cakcakgelo10/one-day-one-code)
 
 📫 Reach me on:  
-[![LinkedIn](https://www.linkedin.com/in/reza-ardiansyah-31007a272/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/reza-ardiansyah-31007a272/)
 
 <!--
 **cakcakgelo10/cakcakgelo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
