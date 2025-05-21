@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi there 👋, I'm Reza Ardiansyah
+
+🚀 I’m passionate about becoming a fullstack JavaScript developer  
+📚 Currently learning: Node.js, Express.js, MySQL  
+💻 Repositories:  
+- 🧠 [Latihan Back-End](https://github.com/cakcakgelo10/latihan-jadi-back-end)  
+- 📅 [One Day One Code](https://github.com/cakcakgelo10/one-day-one-code)
+
+📫 Reach me on:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/your-link/)
 
 <!--
 **cakcakgelo10/cakcakgelo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
